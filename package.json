@@ -1,0 +1,26 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "Cypress Studies",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MomAline/Cypress-Studies.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Aline de Mattos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MomAline/Cypress-Studies/issues"
+  },
+  "homepage": "https://github.com/MomAline/Cypress-Studies#readme",
+  "devDependencies": {
+    "cypress": "^10.4.0",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
