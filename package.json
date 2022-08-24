@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MomAline/Cypress-Studies.git"
+    "url": "git+https://github.com/MomAline/Cypress-Studies.git"
   },
   "keywords": [
     "cypress"
@@ -21,6 +21,8 @@
   "homepage": "https://github.com/MomAline/Cypress-Studies#readme",
   "devDependencies": {
     "cypress": "^10.4.0",
-    "cypress-file-upload": "^5.0.8"
-  }
+    "cypress-file-upload": "^5.0.8",
+    "faker": "^6.6.6"
+  },
+  "dependencies": {}
 }
